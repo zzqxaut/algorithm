@@ -1,7 +1,9 @@
 # algorithm #
 # 哈哈哈 #
-    int a = s;
-    ddd
+```c++
+int a = s;
+ddd
+```
 
 $$
 \begin{matrix}
@@ -11,4 +13,6 @@ $$
 \end{matrix} \tag{1}
 $$
 
-&\alpha $
+$\alpha $
+
+![{2B8013FF-F3F7-46FB-AFA0-1A487EF13828}](C:\Users\user\AppData\Local\Packages\MicrosoftWindows.Client.CBS_cw5n1h2txyewy\TempState\ScreenClip\{2B8013FF-F3F7-46FB-AFA0-1A487EF13828}.png)
